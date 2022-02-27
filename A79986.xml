@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cloathing for the naked vvoman, or The second part of the dissembling Scot, set forth in his colours, being a corection of Mr. David Brovvn his errors in his pamphlet called the naked woman, stiled to him, a rare epsitle to Mr. Sterrey Written by the minister of christ-church London, in vindication of him and his flock from those false aspersions which are case upon them, of false doctrine and discipline. Whereunto is added, the new creed, or beliefe in God.</title>
+            <title>Cloathing for the naked woman.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79986</idno>
+            <idno type="STC">Wing C4736</idno>
+            <idno type="STC">Thomason E683_25</idno>
+            <idno type="STC">ESTC R206827</idno>
+            <idno type="EEBO-CITATION">99865932</idno>
+            <idno type="PROQUEST">99865932</idno>
+            <idno type="VID">118188</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79986)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118188)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 105:E683[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cloathing for the naked vvoman, or The second part of the dissembling Scot, set forth in his colours, being a corection of Mr. David Brovvn his errors in his pamphlet called the naked woman, stiled to him, a rare epsitle to Mr. Sterrey Written by the minister of christ-church London, in vindication of him and his flock from those false aspersions which are case upon them, of false doctrine and discipline. Whereunto is added, the new creed, or beliefe in God.</title>
+                  <title>Cloathing for the naked woman.</title>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sould by Giles Calvert at the black spread Eagle at the West end of Pauls.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Anno Dom. 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Brown, David  The naked woman, or a rare epistle sent to Mr. Peter Sterry minister at Whitehall.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brown, David, fl. 1650-1652. --  Naked woman, or a rare epistle sent to Mr. Peter Sterry minister at Whitehall.</term>
+               <term>Religion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Korey Jackson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Korey Jackson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118188:1" rendition="simple:additions"/>
+            <p>CLOATHING FOR THE Naked Woman, OR The ſecond part of THE DISSEMBLING SCOT, SET FORTH IN HIS COLOVRS, Being a Corection of Mr. DAVID BROVVN His errors in his Pamphlet called THE NAKED WOMAN, ſtiled alſo by him, A RARE EPISTLE to Mr. STERREY.</p>
+            <q>
+               <bibl>
+                  <hi>PROV. 26.5.</hi>
+               </bibl>
+               <p>Anſwer a Foole according to his folly, leſt he be wiſe in his own Conceit.</p>
+            </q>
+            <p>Written by the Miniſter of CHRIST-CHVRCH <hi>London,</hi> in vindication of him and his flock from thoſe falſe aſperſions which are caſt upon them, of falſe Doctrine and Diſcipline.</p>
+            <p>Whereunto is added, THE NEW CREED, or beliefe in GOD.</p>
+            <p>LONDON, Printed and are to be ſould by <hi>Giles Calvert</hi> at the black ſpread Eagle at the Weſt end of <hi>Pauls. Anno Dom.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118188:2"/>
+            <pb n="3" facs="tcp:118188:2"/>
+            <head>CLOATHING FOR THE Naked Woman.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ince the Author of the naked woman hath al<g ref="char:EOLhyphen"/>leadged that <hi>Time is one of the moſt precious Jewels under the Sunne, and that upon the well or ill ſpending of time dependeth Eternity, either of weale or woe.</hi> Much hath Mr. <hi>Brown</hi> to anſwer for, who hath ſo much miſpent it, in making medlyes of frivilous diſcourſes, that he might (amongſt the reſt of his tedious ſtuffe) ſhufle in the old Rotten rags of his own rage againſt ſome religious perſons whom he en<g ref="char:EOLhyphen"/>vieth, and laboureth to make odious to the World , But if he ay<g ref="char:EOLhyphen"/>med only at the glory of God, he would not have built a Scaffold upon the Dunghill of the Ranters, to publiſh his abominable lyes againſt ſuch Godly people who abhorre the practiſes both of them and him, and if he deſired (from the bottom of his heart) the unde<g ref="char:EOLhyphen"/>ceiving of thoſe wretched, miſerable, poore, blind, naked, deluded, and bewitched people who are conceited of the Raritie of their Ran<g ref="char:EOLhyphen"/>ting fooleries, as he is of his rare Epiſtle, then he would have taken a better courſe, and inſtead of ſounding a Trumpet about her, have
+<pb n="4" facs="tcp:118188:3"/>been ſo modeſt as to turne away the peoples eyes from beholding vanity, and much more ſhould he have ſought to take away that falſe principle, upon which the Ranters build their carnall exerciſes, for he is a Phyſitian of no value, who ſeeketh not into the cauſe as well as the Cure.</p>
+            <p>And that I may not be fruitleſs to the Reader, I thought good to minde you, that the ground wherefore the Ranters hold, <hi>the ſin<g ref="char:EOLhyphen"/>fulleſt deed to be as holy as the pureſt</hi> act, is, becauſe the whole life and power of motion both in men and Angells, good and bad cometh Originally from GOD, and therefore they conclude, <hi>that the poore creature can do no otherwiſe, then what it alwayes doth, and may do what it liſteth, and is drawn forth to evill, by the great power of God and the diſpenſation of his good Spirit, who</hi> (they affirme) <hi>hath decreed, determined, commanded, neceſſitated, and drawn them forth to kill, ſteale, commit Adultery, Idolatry, and all manner of wicked<g ref="char:EOLhyphen"/>neſſe, which they luſt to do, all which</hi> (they ſay) <hi>comming from God who giveth power, ability, and activity to all, muſt needs be, and is ſtill good, agreeable to his will, and not evill in the leaſt manner, or meaſure, but as pure, and holy, as the holyeſt of all, and that what man doth, God doth, and man hath no more power then a ſtock, or a ſtone to move, to evill or good, but as God moves, and that they do it not, but God doth it by them, and if they ſinne</hi> (they think) <hi>they do no more then God would have them do, and that they are therefore never out of his favour or Communion by any thing which they doe or can doe,</hi> they think, <hi>their holineſſe cannot bring them nearer to God nor their prophaneneſs draw them further from him.</hi>
+            </p>
+            <p>But herein they erre &amp; have not the knowledge of God, for albeit, that all power and ability comes from God, ſo that the ſame hand that doth good, doth evill alſo, <hi>and the ſame tongue that bleſseth God curſeth men,</hi>
+               <note place="margin">Iam. 3 9.</note> yet the miſaplication of that power is theirs, and nothing elſe is or can be ſin, but the abuſing of that ability which God hath given. Its true, by the power which God hath given to men, they do ſuch deviliſh actions. But that God gave them abilli<g ref="char:EOLhyphen"/>ties and powers purpoſely to miſaply the ſame, is to ſet himſelfe a<g ref="char:EOLhyphen"/>gainſt himſelf, and to make himſelf the Author of ſinne, and like the <hi>Devill</hi> himſelfe who is the <hi>Father</hi> of a Lye,<note place="margin">Iohn 8.44.</note> Now the miſaplying of
+<pb n="5" facs="tcp:118188:3"/>mens created faculties and miſgovernment of them ſelves is a deroga<g ref="char:EOLhyphen"/>tion from the Creation of God,<note place="margin">Rom. 1.20.</note> by which, <hi>the inviſible things of Gods power and Godhead are cleerly ſeen,</hi> And the miſaplying of the divine Ordinances of God, is a ſwarving from his holy inſtitutions; So then, God is the God of all life, motion, and action, both in Angels and Devils, good men, and bad, but not of the miſapplication thereof, and in abillity without miſapplication thereof, is not the eſſentiall cauſe of mens damnation. If the poore creature could never have done otherwiſe, he could not have been blamed nor left without ex<g ref="char:EOLhyphen"/>cuſe,<note place="margin">Prov. 10.22</note> therefore the poore creature hath or had abillity to do better once, God is neither the Author of ſinne nor of <hi>ſorrow,</hi>
+               <note place="margin">Ezek. 18 32.</note> He <hi>hath no pleaſure in the death of him that dyeth, ſinners deſtruction is of them<g ref="char:EOLhyphen"/>ſelves,</hi> neither ſin nor temptation to ſin cometh from him, though ſometimes he permit ſinne, to puniſh ſin, in his Juſtice. <hi>Let no man ſay when he is tempted, I am tempted of God,</hi>
+               <note place="margin">Iam. 1 13, 14, 15, 16, 17.</note> 
+               <hi>for God cannot be temp<g ref="char:EOLhyphen"/>ted with evill, neither tempteth he any man: But every man is temp<g ref="char:EOLhyphen"/>ted when he is drawn away of his own luſt, and entiſed, then when Luſt hath conceived it bringeth forth ſinne, and ſinne when it is finiſh<g ref="char:EOLhyphen"/>ed bringeth forth death. Do not erre my b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loved Brethren. Every good gift, and ever<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> perfect gift is from above, and cometh downe from the Father of lights, with whom is no variableneſs, neither ſha<g ref="char:EOLhyphen"/>dow of changing.</hi>
+            </p>
+            <p>Hence it followeth, that God hath neither decreed, commanded, determined, or drawn them forth to do ſuch deviliſh actions, God is only good, and all good proceedeth from him, as the <hi>Fountaine,</hi>
+               <note place="margin">I am. 3.11</note> 
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut of which there cannot proceed ſweet water and bitter:</hi> Evill proceed<g ref="char:EOLhyphen"/>eth from the Devill that wicked one, ſinne is contrary to the will of God, and man hath ability given him of God not to do evill but good: <hi>This then is the meſsage which we have heard of him, and de<g ref="char:EOLhyphen"/>clare unto you, that God is Light, and in him is no darkneſs at all. If we ſay we have Fellowſhip with him, and walk in darkneſs we lye and do not the truth, but if we walk in the light, as he is in the light, we have Fellowſhip one with another, and the blood of Jeſus Chriſt his Son, cleanſeth us from all ſinne.</hi> 1 <hi>John</hi> 1.7, 8, 9.</p>
+            <p>My Concluſion is that ſo long as men miſaply the powers and fa<g ref="char:EOLhyphen"/>culties God hath given them, <hi>they commit ſin, and are the ſervants
+<pb n="6" facs="tcp:118188:4"/>of ſin;</hi> And thoſe that do not at all apply their abillities, are <hi>evill and ſloathfull ſervants.</hi>
+               <note place="margin">Iohn 8.34 Mat. 25.26.</note> But if they rightly apply their powers and facul<g ref="char:EOLhyphen"/>ties to obſerve, <hi>the Statutes of God, that is righteouſneſs:</hi> But the power is one and the ſame,<note place="margin">Deut. 6.25. Act. 17.28.</note> though it be not alwayes applyed that way which God would have it applyed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But thou wilt ſay; <hi>Hath not God power to reſtrain all men from ſinning, and why will he not compell them to make right applications of their abilities, ſeeing God hath all power and is infinite in ſtrength?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I Anſwer, God hath determined to let man be a creature free, and Gods determinations muſt ſtand ſure; <hi>I know that what ſoever God doth it ſhall be for ever,</hi>
+               <note place="margin">Eccleſ. 3.14.</note> 
+               <hi>nothing can be put unto it, nor any thing taken from it, and God doth it, that men ſhould fear before him.</hi> Let this deterre you from the abuſing of your received abilities, Leſt God power contempt upon you, and harden your hearts from his feare that ye can never be rec overed out of the Grave of Apoſtacy.</p>
+            <p>Thus having written ſomewhat to convince <hi>the ſect of the Liber<g ref="char:EOLhyphen"/>tines</hi> of their abominable ſinnes, and to deterre them there from. I ſhall proceed to anſwer: <hi>D B.</hi> in thoſe matters concerning my ſelfe wherein I referre him and the Reader, firſt of all to the book which I ſet forth in vindication of Leiutenant Col. LILBURNE and Mr. MUSGRAVE, and others from <hi>David Brownes</hi> falſe aſperſions And I deny that he ever procured any place for me in the Common<g ref="char:EOLhyphen"/>wealth, or that he ever kept me in it, as he falſely alleageth, or that I was ſo much as ſuſpended from it, unleſs it were in private, and I have nothing to do with any thing that is done in Hugger-mugger, I alſo challenge all perſons to ſhew wherein I have done the leaſt wrong to the Commonwealth or to any particular perſon, becauſe <hi>D. B.</hi> who ſeemeth to be rhe Committees (and their Clerks) advo<g ref="char:EOLhyphen"/>cate (though he be none of the wiſeſt (unleſs in his own conceit) would make men believe he is a great looſer by me, but he lies; for I never had any thing from him, and what I &amp; my Friends have done &amp; ſuffered in our eſtates for him is well known, &amp; my promiſe never budded but it bloſomed after in performance, but his accuſations are generall, and I know not where to find him; therefore I will not trouble my ſelf, nor the Reader, to follow him, becauſe he is as a fiſh in the water; And indeed I expected that he would have ſet forth
+<pb n="7" facs="tcp:118188:4"/>ſomething more perticuler concerning <hi>Worceſter</hi> houſe, but becauſe he ſaith he hath it yet to divulge; I ſhall ceaſe troubling my ſelfe a<g ref="char:EOLhyphen"/>ny further, to untwiſt Bryars and Thorns, before I be intangled therewith, I know its more ſutable to the Rules of the Goſpell, to be Defendant then Plaintiffe; And I feare not the face of any man, though Belzebub the Prince of the Devills, and all his Train be ſet in battell-array againſt me, to make thouſands of people more wretched then they be, by hindring my progreſs concerning the ſa<g ref="char:EOLhyphen"/>tisfaction of THE PUBLIQVE FAITH, out of all <hi>diſcoveries of Lands concealed from and which doth Juſtly appertaine unto the Common-wealth, and alſo out of all monyes in Treaſurers and Col<g ref="char:EOLhyphen"/>lectors hands which they have concealed from THE COMMON<g ref="char:EOLhyphen"/>WEALTH, as alſo all the eſtates of Convicted Papiſts, and Delin<g ref="char:EOLhyphen"/>quents, undiſpoſed of</hi> (making this proviſo, <hi>that every mans Juſt right, and legall intereſt ſhould be preſerved and induſtry conſidered</hi>) and ſo, It is deſired that <hi>the Mynes, and Lands under high-water<g ref="char:EOLhyphen"/>mark and Forreſt Lands may be improved, and Popiſh Cathedralls demoliſhed and ſold,</hi> and that the overplus may be for THE RE<g ref="char:EOLhyphen"/>LIEF OF THE POORE, and <hi>ſatisfaction of the LOSSES,</hi> and <hi>other Juſt debts of the Nation,</hi> according as the PARLIAMENT ſhall appoint, Which ſome private men, who ſeek their own mer<g ref="char:EOLhyphen"/>cenary ends, more then the glory of GOD or THE PUBLIQVE GOOD do <hi>labor to oppoſe,</hi> the Devill being alwayes at their elboes to ſtir them up thereunto.</p>
+            <p>And as touching Mr. <hi>Brown</hi> I confeſs ingeniouſly that although the Church hath excommunicated him juſtly,<note place="margin">Rev. 8.10</note> yet he houldeth forth many truths which he held, and received when he was a Member with us; But he is like the blazing Starre, which Saint <hi>John</hi> ſaw <hi>fall from Heaven to the Earth burning,</hi>
+               <note place="margin">He profeſſeth totall ſeperati<g ref="char:EOLhyphen"/>on to cloake his abomi<g ref="char:EOLhyphen"/>nable Hipo<g ref="char:EOLhyphen"/>criſie &amp; diſimu<g ref="char:EOLunhyphen"/>lation; as ſhall be made to appear ſhortly</note> 
+               <hi>for he hath a burning zeale againſt theſe Ranters,</hi> he profeſſeth <hi>for totall ſeperation, from the falſe Aſſemblies,</hi> ſtandeth for <hi>Common Juſtice</hi> imputting <hi>male factors to work, who ought not by the Lawes of God to ſuffer death,</hi> (and that <hi>THEY ARE MVRDERERS WHO KILL THEM,</hi>) he is for <hi>the quite plucking down of the Idolatrous high places,</hi> and yet he is a ſinner againſt his own ſoule, though he with <hi>Belz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bub confeſs that Chriſt is the Son of the bleſsed;</hi> But his confeſſing <hi>Chriſt
+<pb n="8" facs="tcp:118188:5"/>is of envy, thinking to adde affliction to the poor Saints,</hi> who have caſt him out from amongſt them for his wickedneſs, for after he had brought in thoſe perſons whom he (in his rare Epiſtle) calleth <hi>famous Witneſſes,</hi> to prove his Charge, <hi>D. Brown</hi> the Plaintiff (after I had made my defence) confeſſed, that he was <hi>heartily ſorry for charging me with Lying and Cheating, and that he knew in his own conſcience, I was boneſt and Juſt; But that the Devill provoked him to accuſe me,</hi> and thereupon <hi>he prayed the Church to forgive him,</hi> and urged the <hi>ſpeech of Chriſt to Saint</hi> Peter <hi>to forgive often,</hi> 70 <hi>times</hi> 7 <hi>times;</hi> but when he ſaw that the <hi>Church</hi> would have a little more experience of him before they would admit him to the SACRAMENT, (from which he was ſuſpended becauſe he had ſo often played faſt and looſe with them in a diſſembling way) and deſired him <hi>to Certifie under his hand the wrong that he had done, that thoſe that are without may be ſatisfied, to whom he had caryed his lyes,</hi> he then fell to juſtifie himſelfe, and to undo all his repentance, and to charge the Church with ſinne, wherefore the Church ſeeing his wickedneſſe and ob<g ref="char:EOLhyphen"/>ſtinacy, called upon me to diſcharge my duty, and to pronounce the ſentence, and ſo he was caſt out as <hi>a lyer and falſe accuſer of the Brethren, and as a hatefull perſon before God and man, becauſe of his ſowing diſcord amongſt them, and perſiſting in his obſtinacy;</hi> Since which time, he hath proceeded from evill to worſe, as if he were given up to a reprobate ſence; And whereas <hi>he ſaith he wit<g ref="char:EOLhyphen"/>neſsed againſt the evills of divers falſe Doctrines which were by Samuell Chidley one of their Teachers delivered;</hi> I ſhall <hi>declare</hi> the Doctrine what it is, and leave the ſame to wiſe men to Judge of.</p>
+            <p>The Text from whence the Doctrine was raiſed, is <hi>Iſaiah</hi> 63.9. <hi>Surely they are my people, Children that will not lye, ſo he was their Saviour.</hi>
+            </p>
+            <p>The Doctrine which was raiſed <hi>from the</hi> word (will) in that place, <hi>Children that will not lye,</hi> he accepted againſt.</p>
+            <p>And as a preparative to the Doctrine, I noted many things.</p>
+            <p>And after them theſe which follow.</p>
+            <p n="1">1. That it is not ſaid Children that do not lye; The Saints of God through infirmity have falne into that ſin, and <hi>Salomon</hi> ſaith, <hi>There is not a juſt man upon the Earth that doth good and ſinneth net.</hi> Ec<g ref="char:EOLhyphen"/>cleſ. 7.20.</p>
+            <pb n="9" facs="tcp:118188:5"/>
+            <p n="2">2. Neither is it ſaid, Children which cannot lye,<note place="margin">1 Iohn 1 8.</note> for <hi>If we ſay we have no ſinne we deceive our ſelves, and the truth is not in us.</hi> The Saints are ſubject to ſinne, the ſeed of ſin is in their natures, St. <hi>Paul</hi> complaineth that he was <hi>carnall, ſold under it,</hi> and <hi>with his fleſh,</hi>
+               <note place="margin">Rom. 7.44.</note> 
+               <hi>ſerved the Law of ſinne,</hi> and <hi>the evill that he would not doe,</hi>
+               <note place="margin">
+                  <hi>Verſe</hi> 25.</note> 
+               <hi>that he did,</hi> yea theſe precious Saints, ſpoken of in the Text in hand,<note place="margin">
+                  <hi>Verſe</hi> 19.</note> whom the Lord teſtifieth of<g ref="char:punc">▪</g> ſaying, <hi>ſurely they are my people, Children that will not lye, and ſo he was their Saviour,</hi>
+               <note place="margin">Iſa. 63 9, 10</note> 
+               <hi>in his love and in his pitty, he redeemed them,</hi> yet its ſaid afterwards, in <hi>verſ.</hi> 10. <hi>But they rebelled and vexed his holy ſpirit, therefore he was turned to be their enemy, and he fought againſt them,</hi> therefore when <hi>Paul</hi> ſaith, <hi>we can do nothing againſt the truth, but for the truth,</hi> Joſeph ſaith, <hi>how can I do this great wickednes &amp; ſin a gainſt God,</hi> the meaning is,<note place="margin">2 Cor 13.8</note> that by that inward principle which they had received from GOD, they could not aſſent unto it, as being contrary to their mind, and WILL, they had no diſpoſition in them ſo to do, for <hi>the fear of God</hi> was be<g ref="char:EOLhyphen"/>fore them, and <hi>They delighted in the Law of God after the inner man,</hi> — In this ſence <hi>he that is borne of God ſinnes not.</hi>
+            </p>
+            <p n="3">3 But the Text ſaith, <hi>Surely they are my people, Children that [will] not lye,</hi> whence this Doctrine was raiſed, THAT THERE IS A VVILL IN THE SAINTS OF GOD NOT TO LYE.</p>
+            <p>They have a gracious and a voluntary diſpoſition in them to reſiſt ſinne.</p>
+            <p>The point being amplified from the 7th. of the <hi>Romans,</hi> from the 15 <hi>verſe</hi> to the end of the Chapter, and confirmed further by Rea<g ref="char:EOLunhyphen"/>ſon, and ſome further progreſs made, to the information of the minds, and ſtirring up of the affections, of the hearers, and the Comfort of the poore Saints, concerning their Evidences and Inte<g ref="char:EOLhyphen"/>reſt in Chriſt none of the Church oppoſed but Mr. D, <hi>Brown</hi> who made a diſturbance in the Congregation, charging me with falſe Doctrine, another Miniſter and a learned man whom he himſelfe choſe to have the hearing of the buſineſs and to Judge and make an end of the difference juſtified the Doctrine, yet Mr. <hi>Brown</hi> was therefore angry and diſcontented with him alſo.</p>
+            <p>There is ſomewhat elſe which I delivered concerning ORIGI<g ref="char:EOLhyphen"/>NALL SINNF, which Mr. <hi>Brown</hi> was diſcontented at.</p>
+            <pb n="10" facs="tcp:118188:6"/>
+            <p>
+               <hi>That ORIGINALL SINNE came from Sathan, entered into the World by one man, and was acted by him, this actuall ſinne was originall,</hi>
+               <note place="margin">Rom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 5.12</note> 
+               <hi>but pardoned to</hi> Adam, <hi>and not to be imputed to his poſterity to eternal condemnation, without further degeneration; for al<g ref="char:EOLhyphen"/>though</hi> Adams <hi>ſinne made a leak in the ſhip of Mankinde, and was the Inlet to all other finnes which are committed by his poſterity, yet</hi> Adam <hi>was not ſo guilty, nor contracted ſuch a meaſure of Guilt upon his poſterity, as they have ſince brought upon themſelves; For we read not that</hi> Adam <hi>committed Murder, or Adultery, Idolatry,</hi> Sabboth <hi>breaking,</hi> and ſuch abominable ſins as men now commit with a high hand. <hi>Adams</hi> ſin was one, theirs are many, hence it comes that God ſends many diſeaſes upon them, which <hi>Adam</hi> had not, and which he threatneth in the Law, as the Conſumption and burning Ague,<note place="margin">Lev. 26</note> and ſuch like, and ſo their dayes are ſhortned to what they were before; The conſideration whereof ſhould deterre all men from ſinning; for as <hi>Adam</hi> was, a Root to all mankind, ſo every man is a root unto the Children which ſpring from him; ſo that that which was actuall ſinne in the Parents,<note place="margin">Heb. 7.9.10</note> is the Childes by imputati<g ref="char:EOLhyphen"/>on, as <hi>Levi</hi> paid Tithes in the loynes of <hi>Abraham,</hi> becauſe he was in his loynes, and as we all were tranſgreſſors in the loynes of <hi>A<g ref="char:EOLhyphen"/>dam,</hi> ſo every ſinner contracts more ſinne upon him and his poſterity then <hi>Adam</hi> did in Paradize, and ſo becomes an Originall root to his poſterity after him.</p>
+            <p>Theſe are the Doctrines which Mr. <hi>Brown</hi> calls falſe; If he have any thing further to alleadge, if he manifeſt it, I ſhall give ſuch an Anſwer thereto as the Word of God ſhall direct, with ſuch modera<g ref="char:EOLhyphen"/>tion as I hope ſhall demonſtrate, that I have no hatred to the man, but to his evills.</p>
+            <p>And now to conclude, I have here ſet down my profeſſion which is agreeable to my Doctrine, which Confeſſion of Faith J reſolve through Gods grace to live and dye in.</p>
+            <p>The Beliefe as followeth.</p>
+            <div type="creed">
+               <pb n="11" facs="tcp:118188:6"/>
+               <head>A NEVV <hi>CHRISTIAN CREED</hi> Built upon the old Foundation of the Holy APOSTLES and PROPHETS. IESVS CHRIST being the Chiefe Corner Stone.</head>
+               <q>
+                  <p>I Believe in God the Father Almighty maker of Hea<g ref="char:EOLhyphen"/>ven and Earth, and in Ieſus Chriſt his only Sonne our Lord, which was conceived by the power of the HOLY GHOST, borne of the Virgin <hi>Mary,</hi> ſuffered under <hi>Pon<g ref="char:EOLhyphen"/>tus Pilate,</hi> was Crucified, dead and buried, and roſe againe the third day, and aſcended into Heaven, and ſitteth on the right hand of God, from thence he ſhall come to Iudge the Living and the Dead.</p>
+                  <l>I believe in the Holy Ghoſt,</l>
+                  <l>The holy Seperated Church</l>
+                  <l>The Communion of Saints,,</l>
+                  <l>The forgiveneſs of ſinnes,</l>
+                  <l>The Reſurrection of the dead</l>
+                  <l>And the life everlaſting,</l>
+               </q>
+               <closer>AMEN.</closer>
+               <trailer>FJNJS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
